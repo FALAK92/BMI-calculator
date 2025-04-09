@@ -48,7 +48,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.markdown('<div class="title">💪 Fancy BMI Calculator 💫</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">💪 BMI Calculator 💫</div>', unsafe_allow_html=True)
 
 # Input section
 col1, col2 = st.columns(2)
